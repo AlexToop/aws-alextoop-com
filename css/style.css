@@ -15,6 +15,14 @@
     text-align: center;
 }
 
+.navbar .nav-link.active {
+    border-bottom: 2px solid white;
+}
+
+#photoWrapper {
+    max-width: 70%;
+    margin: 0 auto;
+}
 
 body {
     font-size: 16px;
